@@ -1813,3 +1813,9 @@ footer {
     width: 132px;
   }
 }
+.cust {
+  background: url('./images/background.jpeg');
+}
+.cust p {
+  color: white;
+}
