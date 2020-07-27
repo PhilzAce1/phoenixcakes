@@ -1819,3 +1819,11 @@ footer {
 .cust p {
   color: white;
 }
+button.order-now {
+  padding: 10px 20px;
+  background-color: #f88c91;
+  outline: none;
+  border: 0;
+  color: white;
+  font-weight: bolder;
+}
