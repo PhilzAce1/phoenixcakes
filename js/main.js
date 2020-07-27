@@ -31,7 +31,7 @@ function getFormData(form) {
 function sendWhatsAppMsg(data) {
   console.log(data);
   return window.open(
-    `https://wa.me/2348102642805?text=Hi%20my%20name%20is%20 ${data.name}%20,%20My%20Place%20of%20delivery%20is%20${data.address}%20the%20cake%20is%20${data.category}`,
+    `https://wa.me/2348185410995?text=Hi%20my%20name%20is%20 ${data.name}%20,%20My%20Place%20of%20delivery%20is%20${data.address}%20the%20cake%20is%20${data.category}`,
     '_blank'
   );
 }
